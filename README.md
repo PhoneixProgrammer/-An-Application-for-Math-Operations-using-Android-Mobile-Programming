@@ -1,1 +1,3 @@
 # -An-Application-for-Math-Operations-using-Android-Mobile-Programming
+Designed an application that can be used as a math tutor for students. The application has a specified set of mathematical operations menu where it allows the student to select from addition, subtraction, multiplication, division, or a combination of the four operations. Once the selection made, a new screen displays with 10 problems consecutively that use the selected operation. The application keeps the track of the number of problems the student answered correctly and incorrectly and displays the results once the test is done.
+(Used a random number generator to produce the numbers that are used in the arithmetic problems)
